@@ -9,4 +9,4 @@ www.npttech.com
 ||gigya.com^
 star.c10r.facebook.com
 armmf.adobe.com
-
+api.ipify.org
