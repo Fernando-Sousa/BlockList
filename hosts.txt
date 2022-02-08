@@ -12,3 +12,5 @@ api.ipify.org
 fundingchoicesmessages.google.com
 ||s.w.org^$important
 ||cloud.weborama.design^$important
+||consensu.org^
+||sentry.io^$important
