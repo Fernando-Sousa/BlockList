@@ -14,3 +14,7 @@ fundingchoicesmessages.google.com
 ||cloud.weborama.design^$important
 ||consensu.org^
 ||sentry.io^$important
+||reports.crashlytics.com^$important
+||app.adjust.com^$important
+||en25.com^$important
+||googleadservices.com^$important
